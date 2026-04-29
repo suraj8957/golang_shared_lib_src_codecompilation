@@ -1,4 +1,4 @@
-import org.company.ci.GolangPipeline
+import org.mygurukulam.ci.GolangPipeline
 
 def call(Map config=[:]) {
 
