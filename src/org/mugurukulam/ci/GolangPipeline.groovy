@@ -1,4 +1,4 @@
-package org.company.ci
+package org.mygurukulam.ci
 
 class GolangPipeline implements Serializable {
 
